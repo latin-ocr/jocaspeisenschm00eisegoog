@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jocaspeisenschm00eisegoog_0203.png"; bbox 0 0 2642 4225; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 366 370 461 3184">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 366 370 461 3184">
+     <span class='ocr_line' id='line_1_1' title="bbox 366 370 461 3184; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 366 2631 414 3184; x_wconf 71' lang='lat' dir='ltr'>MENSURAE</span> <span class='ocrx_word' id='word_1_2' title='bbox 369 1818 461 2570; x_wconf 48' lang='lat' dir='ltr'>HEBRAICICPPRI</span> <span class='ocrx_word' id='word_1_3' title='bbox 379 370 440 437; x_wconf 63' lang='grc' dir='ltr'>ξ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 615 1253 803 2715">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 615 1253 803 2715">
+     <span class='ocr_line' id='line_1_2' title="bbox 615 1948 647 2029; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 615 1948 647 2029; x_wconf 42' lang='lat'>602</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 688 1599 724 2039; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 688 1908 724 2039; x_wconf 84' lang='lat'>72-</span> <span class='ocrx_word' id='word_1_6' title='bbox 712 1856 719 1870; x_wconf 76' lang='grc'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 688 1599 716 1719; x_wconf 83' lang='lat'>12-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 733 1253 803 2715; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 743 2449 785 2715; x_wconf 73' lang='lat' dir='ltr'>Ovum</span> <span class='ocrx_word' id='word_1_9' title='bbox 743 2093 803 2416; x_wconf 61' lang='lat' dir='ltr'>Rabbiq.</span> <span class='ocrx_word' id='word_1_10' title='bbox 733 1940 794 2035; x_wconf 69' lang='lat'>43</span> <span class='ocrx_word' id='word_1_11' title='bbox 758 1844 785 1915; x_wconf 83' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_12' title='bbox 759 1598 794 1729; x_wconf 86' lang='lat'>72-</span> <span class='ocrx_word' id='word_1_13' title='bbox 754 1410 788 1483; x_wconf 83' lang='lat'>6.</span> <span class='ocrx_word' id='word_1_14' title='bbox 760 1253 787 1287; x_wconf 86' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1326 4225">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1326 4225">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1326 4225; textangle 90"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1326 4225; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

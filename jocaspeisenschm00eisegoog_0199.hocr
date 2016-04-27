@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jocaspeisenschm00eisegoog_0199.png"; bbox 0 0 2642 4225; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 856 2379 1063 3097">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 856 2379 1063 3097">
+     <span class='ocr_line' id='line_1_1' title="bbox 856 2402 896 3097; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 856 2894 895 3097; x_wconf 82' lang='lat'><em>-864-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 861 2646 896 2779; x_wconf 82' lang='lat'><strong>72·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 876 2402 886 2420; x_wconf 91' lang='lat'><strong>·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 909 2405 952 3077; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 909 2843 952 3077; x_wconf 84' lang='lat'>1728·</span> <span class='ocrx_word' id='word_1_5' title='bbox 914 2590 950 2773; x_wconf 83' lang='lat'><strong>144·-</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 912 2405 949 2529; x_wconf 79' lang='lat'><strong>24·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 964 2379 1008 3081; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 966 2843 1008 3081; x_wconf 82' lang='lat'>3456-</span> <span class='ocrx_word' id='word_1_8' title='bbox 965 2595 1002 2780; x_wconf 83' lang='lat'>288-</span> <span class='ocrx_word' id='word_1_9' title='bbox 964 2379 1004 2537; x_wconf 74' lang='lat'>48-&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1022 2387 1063 3078; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 1027 2979 1062 3078; x_wconf 85' lang='lat'><strong>43</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1027 2829 1053 2954; x_wconf 82' lang='lat'><strong>20-</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1023 2579 1063 2762; x_wconf 79' lang='lat'><strong>360-</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1022 2387 1053 2517; x_wconf 66' lang='lat'><strong>60,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1326 4225">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1326 4225">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1326 4225; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1326 4225; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
